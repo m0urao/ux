@@ -13,11 +13,15 @@
 
 * [Fonts.com](http://www.fonts.com/)
 
+## Icons 
+* [The Noun Project](https://thenounproject.com/)
 
 ## Generators
 * [Palette Maker](https://palettemaker.com/) - Create unique colour schemes with AI and see them come to life on real design examples.
 
-* [Haikei](https://app.haikei.app/) - Haikei is a web-based design tool to generate unique SVG design assets for websites, social media, blog posts, desktop and mobile wallpapers, posters, and more! 
+* [Haikei](https://app.haikei.app/) - Haikei is a web-based design tool to generate unique SVG design assets for websites, social media, blog posts, desktop and mobile wallpapers, posters, and more!
+
+*[Fffuel](https://fffuel.co/) 
 
 * [Adobe Color](https://color.adobe.com/create/color-wheel) - Color Wheel, Extract Theme, Extract Gradient and Accessibility Tools.
 
