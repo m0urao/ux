@@ -5,7 +5,7 @@
 
 * [Shuffle](shuffle.dev) - fully responsive UI components to get you started. 
 
-## Web fonts
+## Typography
 
 * [Adobe Fonts](https://fonts.adobe.com/?ref=tk.com)
 
@@ -13,19 +13,35 @@
 
 * [Fonts.com](http://www.fonts.com/)
 
+* [Urban Fonts](urbanfonts.com) 
+
 ## Icons and Illustrations
 * [The Noun Project](https://thenounproject.com/)
 
-*[Storyset](storyset.com) - Awesome free customizable illustrations for your next project.
+* [Storyset](storyset.com) - Awesome free customizable illustrations for your next project.
 
-*[Majesticons](majesticons.com) - 720 free icons in two styles. Editable in figma.
+* [Majesticons](majesticons.com) - 720 free icons in two styles. Editable in figma.
+
+* [Feather Icons](feathericons.com)
+
+* [unDraw](undraw.co) 
+
+## Images
+* [Unsplash](unsplash.com)
+
+* [Pexels](pexels.com)
+
+* [Freepik](freepik.com)
+
+* [Stockvault](stockvault.com)   
+
 
 ## Generators
 * [Palette Maker](https://palettemaker.com/) - Create unique colour schemes with AI and see them come to life on real design examples.
 
 * [Haikei](https://app.haikei.app/) - Haikei is a web-based design tool to generate unique SVG design assets for websites, social media, blog posts, desktop and mobile wallpapers, posters, and more!
 
-*[Fffuel](https://fffuel.co/) 
+* [Fffuel](https://fffuel.co/) 
 
 * [Adobe Color](https://color.adobe.com/create/color-wheel) - Color Wheel, Extract Theme, Extract Gradient and Accessibility Tools.
 
