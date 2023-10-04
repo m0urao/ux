@@ -13,8 +13,12 @@
 
 * [Fonts.com](http://www.fonts.com/)
 
-## Icons 
+## Icons and Illustrations
 * [The Noun Project](https://thenounproject.com/)
+
+*[Storyset](storyset.com) - Awesome free customizable illustrations for your next project.
+
+*[Majesticons](majesticons.com) - 720 free icons in two styles. Editable in figma.
 
 ## Generators
 * [Palette Maker](https://palettemaker.com/) - Create unique colour schemes with AI and see them come to life on real design examples.
@@ -35,3 +39,7 @@
 * [Pixel True](https://www.pixeltrue.com/mockup-generator)
 
 * [Devices by Meta](https://design.facebook.com/toolsandresources/devices/) 
+
+## Other
+
+* [UX Project Checklist](http://www.ux-checklist.com/) - The most comprehensive list for starting a UX Project.
