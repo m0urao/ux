@@ -29,3 +29,5 @@
 * [Smart Mockups](https://smartmockups.com/mockups)
 
 * [Pixel True](https://www.pixeltrue.com/mockup-generator)
+
+* [Devices by Meta](https://design.facebook.com/toolsandresources/devices/) 
