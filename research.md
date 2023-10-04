@@ -10,3 +10,7 @@
 * [Dribble](https://dribbble.com/shots/popular) - the leading destination to find & showcase creative work and home to the world's best design professionals.
 
 * [UI Garage](https://uigarage.net/) - Find specific design inspiration for web, mobile and tablet.
+
+## Referencing
+
+* [CiteThis](https://www.citethisforme.com/) - Cite all your sources.

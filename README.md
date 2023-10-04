@@ -4,6 +4,7 @@ Welcome! This repo contains all the resources I've been collecting over time to 
 ## Table of Contents
 * [Learn UX](learning.md)
 * [Books](books.md)
+* [Case Studies](case-studies.md)
 * [Guidelines](guidelines.md)
 * [Best Practices](best-practices.md)
 * [Research](research.md)

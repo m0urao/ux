@@ -5,6 +5,15 @@
 
 * [Shuffle](shuffle.dev) - fully responsive UI components to get you started. 
 
+## Web fonts
+
+* [Adobe Fonts](https://fonts.adobe.com/?ref=tk.com)
+
+* [Google Web Fonts](https://www.google.com/fonts/)
+
+* [Fonts.com](http://www.fonts.com/)
+
+
 ## Generators
 * [Palette Maker](https://palettemaker.com/) - Create unique color schemes with AI and see them come to life on real design examples.
 
