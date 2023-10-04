@@ -15,11 +15,17 @@
 
 
 ## Generators
-* [Palette Maker](https://palettemaker.com/) - Create unique color schemes with AI and see them come to life on real design examples.
+* [Palette Maker](https://palettemaker.com/) - Create unique colour schemes with AI and see them come to life on real design examples.
 
 * [Haikei](https://app.haikei.app/) - Haikei is a web-based design tool to generate unique SVG design assets for websites, social media, blog posts, desktop and mobile wallpapers, posters, and more! 
 
 * [Adobe Color](https://color.adobe.com/create/color-wheel) - Color Wheel, Extract Theme, Extract Gradient and Accessibility Tools.
 
 ## Mockups
-* [Mock Rocket](https://mockrocket.io/) - Create device mockups and product videos right in your web browser.
+* [Mock Rocket](https://mockrocket.io/)
+  
+* [MockUp Bro](https://mockupbro.com/)
+
+* [Smart Mockups](https://smartmockups.com/mockups)
+
+* [Pixel True](https://www.pixeltrue.com/mockup-generator)
