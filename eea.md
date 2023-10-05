@@ -9,7 +9,7 @@
 * [Accessible Design](https://www.acessibility.com/design)
 
 ## Tools
-* [Stark Accessibility Tools](https://www.getstarck.co)
+* [Stark Accessibility Tools](https://www.getstark.co)
 * [Adee](https://www.adee.co)
 * [WAVE](https://www.wave.webaim.org)
 * [Who Can Use](https://www.whocanuse.com)
