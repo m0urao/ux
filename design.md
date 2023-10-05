@@ -3,7 +3,7 @@
 ## Components
 * [UI Verse](https://uiverse.io/) - Create, share, and use beautiful custom elements made with CSS or Tailwind.
 
-* [Shuffle](shuffle.dev) - fully responsive UI components to get you started. 
+* [Shuffle](https://shuffle.dev) - fully responsive UI components to get you started. 
 
 ## Typography
 
@@ -13,27 +13,27 @@
 
 * [Fonts.com](http://www.fonts.com/)
 
-* [Urban Fonts](urbanfonts.com) 
+* [Urban Fonts](https://urbanfonts.com) 
 
 ## Icons and Illustrations
 * [The Noun Project](https://thenounproject.com/)
 
-* [Storyset](storyset.com) - Awesome free customizable illustrations for your next project.
+* [Storyset](https://storyset.com) - Awesome free customizable illustrations for your next project.
 
-* [Majesticons](majesticons.com) - 720 free icons in two styles. Editable in figma.
+* [Majesticons](https://majesticons.com) - 720 free icons in two styles. Editable in figma.
 
-* [Feather Icons](feathericons.com)
+* [Feather Icons](https://feathericons.com)
 
-* [unDraw](undraw.co) 
+* [unDraw](https://undraw.co) 
 
 ## Images
-* [Unsplash](unsplash.com)
+* [Unsplash](https://unsplash.com)
 
-* [Pexels](pexels.com)
+* [Pexels](https://pexels.com)
 
-* [Freepik](freepik.com)
+* [Freepik](https://freepik.com)
 
-* [Stockvault](stockvault.com)   
+* [Stockvault](https://stockvault.com)   
 
 
 ## Generators
