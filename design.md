@@ -59,3 +59,5 @@
 ## Other
 
 * [UX Project Checklist](http://www.ux-checklist.com/) - The most comprehensive list for starting a UX Project.
+  
+* [Figr](https://flash.figr.design/) - Fast-track your design process with our collection of editable Figma templates for popular apps
