@@ -17,3 +17,7 @@
 * [User Research - Top Tips](https://userresearch.blog.gov.uk/2015/03/18/so-youre-going-to-be-a-user-researcher-top-tips-to-get-you-going/)
 
 * [How to build your own case study](https://uxdesign.cc/case-study-template-8832941a9d1b)
+
+* [UI Tips](https://www.uidesign.tips/ui-tips)
+
+* [UX Tips](https://www.uidesign.tips/ux-tips)
