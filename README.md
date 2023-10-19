@@ -11,4 +11,5 @@ Welcome! This repo contains all the resources I've been collecting over time to 
 * [Research](research.md)
 * [Design](design.md)
 * [Practice](to-practice.md)
+* [Games](games.md)
 * [Find a Job](jobs.md)
