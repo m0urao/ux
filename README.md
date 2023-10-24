@@ -3,6 +3,7 @@ Welcome! This repo contains all the resources I've been collecting over time to 
 
 ## Table of Contents
 * [Learn UX](learning.md)
+* [Tools](tools.md)
 * [Books](books.md)
 * [EEA](eea.md)
 * [Case Studies](case-studies.md)
