@@ -1,4 +1,7 @@
 # Case Studies
+- [Case Study Club](https://www.casestudy.club/)
+
+---
 
 * [Google Mentor Design](https://www.behance.net/gallery/90958309/Google-Mentor-Design-Case-Study)
 
