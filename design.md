@@ -45,6 +45,8 @@
 
 * [Adobe Color](https://color.adobe.com/create/color-wheel) - Color Wheel, Extract Theme, Extract Gradient and Accessibility Tools.
 
+* [Figma Color Wheel](https://www.figma.com/color-wheel/)
+
 ## Mockups
 * [Mock Rocket](https://mockrocket.io/)
   
